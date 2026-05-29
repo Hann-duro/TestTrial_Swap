@@ -4,6 +4,8 @@ public class Lever : MonoBehaviour
 {
     private bool isActivated = false;
 
+    [SerializeField] private Gate targetGate;
+
     public void Activate()
     {
         if (!isActivated)
@@ -11,10 +13,13 @@ public class Lever : MonoBehaviour
             isActivated = true;
 
             Debug.Log("Lever Activated!");
-            
-            // contoh:
-            // buka pintu
-            // matikan trap
+
+            Gate gate = GetComponent<Gate>();
+
+                if (gate != null)
+                {
+                    gate.GateOpen();
+                }
         }
     }
 }
