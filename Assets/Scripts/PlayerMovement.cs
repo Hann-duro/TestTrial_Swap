@@ -16,6 +16,15 @@ public class PlayerMovement : MonoBehaviour
     {
         move.x = Input.GetAxisRaw("Horizontal");
         move.y = Input.GetAxisRaw("Vertical");
+
+        if (
+        Input.GetKeyDown(KeyCode.W) ||
+        Input.GetKeyDown(KeyCode.A) ||
+        Input.GetKeyDown(KeyCode.S) ||
+        Input.GetKeyDown(KeyCode.D))
+        {
+            Debug.Log("Move");
+        }
     }
 
     void FixedUpdate()

@@ -519,7 +519,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 666741204}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3470b468542e0fa42926d5e6a6d6bedb, type: 3}
+  m_Script: {fileID: 11500000, guid: d622bd4eb72c8174bba081ea4c0d6a5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Monster
 --- !u!61 &666741206
@@ -719,6 +719,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7559c9d3fff7b64aa3c30d1972dfe5a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Lever
+  targetGate: {fileID: 0}
 --- !u!212 &1399503398
 SpriteRenderer:
   serializedVersion: 2
@@ -856,6 +857,22 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9f49d30ece2fd9a44bcc586abe57f271, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerHealth
+--- !u!114 &2019522860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019522844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9cb525031b81e364aaaa49ca18ea51f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerFormController
+  heroData: {fileID: 11400000, guid: 85594d37f58ca5b4b9fc07b3b4202315, type: 2}
+  wizardData: {fileID: 11400000, guid: c2ad1ae40575762439ade275da177c35, type: 2}
+  rogueData: {fileID: 11400000, guid: e1ddbaaace5aa8147873cea27a2353c2, type: 2}
+  currentCharacter: {fileID: 0}
 --- !u!1001 &2069550542
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -864,6 +881,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -3680475330757956576, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 24229469662459416, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
       propertyPath: m_Constraints
       value: 4
@@ -924,7 +945,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
+    - {fileID: 0}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -934,6 +957,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2149159840946116008, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
       insertIndex: -1
       addedObject: {fileID: 2019522852}
+    - targetCorrespondingSourceObject: {fileID: 2149159840946116008, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2019522860}
   m_SourcePrefab: {fileID: 100100000, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:

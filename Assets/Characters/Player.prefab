@@ -11,9 +11,7 @@ GameObject:
   - component: {fileID: 7493866289554841504}
   - component: {fileID: 2319180680978853554}
   - component: {fileID: 24229469662459416}
-  - component: {fileID: 909904324123454409}
   - component: {fileID: -3680475330757956576}
-  - component: {fileID: 715541403498280625}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -122,22 +120,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &909904324123454409
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2149159840946116008}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5953e621becee5c42bdec3ff10127578, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  currentType: 0
-  heroSprite: {fileID: 21300000, guid: 38496544be8f3dd41a7e0a546552a7db, type: 3}
-  wizardSprite: {fileID: 21300000, guid: b9f7357c158f8c24b8b38fab33edfe39, type: 3}
-  rogueSprite: {fileID: 21300000, guid: e65d1e481bdc4834daaed99c46e15657, type: 3}
 --- !u!114 &-3680475330757956576
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -151,15 +133,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   speed: 5
---- !u!114 &715541403498280625
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2149159840946116008}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7c985a5951789f94b8a54cfc31973f2d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerAbility

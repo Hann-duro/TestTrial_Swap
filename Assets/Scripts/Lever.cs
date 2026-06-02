@@ -3,8 +3,7 @@ using UnityEngine;
 public class Lever : MonoBehaviour
 {
     private bool isActivated = false;
-
-    [SerializeField] private Gate targetGate;
+    [SerializeField] private Gate targetGate; 
 
     public void Activate()
     {
@@ -12,14 +11,11 @@ public class Lever : MonoBehaviour
         {
             isActivated = true;
 
-            Debug.Log("Lever Activated!");
-
-            Gate gate = GetComponent<Gate>();
-
-                if (gate != null)
-                {
-                    gate.GateOpen();
-                }
+            if (targetGate != null)
+            {
+                targetGate.GateOpen();
+                Debug.Log("Lever Activated");
+            }
         }
     }
 }
