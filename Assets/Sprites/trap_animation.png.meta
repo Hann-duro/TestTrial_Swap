@@ -1343,9 +1343,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 448
+        y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1365,9 +1365,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 448
+        y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1387,9 +1387,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 448
+        y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1409,9 +1409,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 448
+        y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1431,9 +1431,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 448
+        y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1453,9 +1453,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 448
+        y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1474,10 +1474,10 @@ TextureImporter:
       name: trap_animation_6
       rect:
         serializedVersion: 2
-        x: 160
-        y: 448
+        x: 144
+        y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1496,10 +1496,10 @@ TextureImporter:
       name: trap_animation_7
       rect:
         serializedVersion: 2
-        x: 16
+        x: 160
         y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1518,10 +1518,10 @@ TextureImporter:
       name: trap_animation_8
       rect:
         serializedVersion: 2
-        x: 48
+        x: 176
         y: 432
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1540,10 +1540,10 @@ TextureImporter:
       name: trap_animation_9
       rect:
         serializedVersion: 2
-        x: 80
-        y: 432
+        x: 16
+        y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1562,10 +1562,10 @@ TextureImporter:
       name: trap_animation_10
       rect:
         serializedVersion: 2
-        x: 96
-        y: 432
+        x: 32
+        y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1584,10 +1584,10 @@ TextureImporter:
       name: trap_animation_11
       rect:
         serializedVersion: 2
-        x: 112
-        y: 432
+        x: 48
+        y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1606,10 +1606,10 @@ TextureImporter:
       name: trap_animation_12
       rect:
         serializedVersion: 2
-        x: 144
-        y: 432
+        x: 80
+        y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1628,10 +1628,10 @@ TextureImporter:
       name: trap_animation_13
       rect:
         serializedVersion: 2
-        x: 160
-        y: 432
+        x: 96
+        y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1650,10 +1650,10 @@ TextureImporter:
       name: trap_animation_14
       rect:
         serializedVersion: 2
-        x: 176
-        y: 432
+        x: 112
+        y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1672,10 +1672,10 @@ TextureImporter:
       name: trap_animation_15
       rect:
         serializedVersion: 2
-        x: 16
-        y: 416
+        x: 128
+        y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1694,10 +1694,10 @@ TextureImporter:
       name: trap_animation_16
       rect:
         serializedVersion: 2
-        x: 48
-        y: 416
+        x: 160
+        y: 400
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1716,10 +1716,10 @@ TextureImporter:
       name: trap_animation_17
       rect:
         serializedVersion: 2
-        x: 80
-        y: 416
+        x: 16
+        y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1738,10 +1738,10 @@ TextureImporter:
       name: trap_animation_18
       rect:
         serializedVersion: 2
-        x: 96
-        y: 416
+        x: 32
+        y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1760,10 +1760,10 @@ TextureImporter:
       name: trap_animation_19
       rect:
         serializedVersion: 2
-        x: 112
-        y: 416
+        x: 48
+        y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1782,10 +1782,10 @@ TextureImporter:
       name: trap_animation_20
       rect:
         serializedVersion: 2
-        x: 160
-        y: 416
+        x: 80
+        y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1804,10 +1804,10 @@ TextureImporter:
       name: trap_animation_21
       rect:
         serializedVersion: 2
-        x: 16
-        y: 400
+        x: 96
+        y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1826,10 +1826,10 @@ TextureImporter:
       name: trap_animation_22
       rect:
         serializedVersion: 2
-        x: 32
-        y: 400
+        x: 112
+        y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1848,10 +1848,10 @@ TextureImporter:
       name: trap_animation_23
       rect:
         serializedVersion: 2
-        x: 48
-        y: 400
+        x: 144
+        y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1870,10 +1870,10 @@ TextureImporter:
       name: trap_animation_24
       rect:
         serializedVersion: 2
-        x: 80
-        y: 400
+        x: 160
+        y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1892,10 +1892,10 @@ TextureImporter:
       name: trap_animation_25
       rect:
         serializedVersion: 2
-        x: 96
-        y: 400
+        x: 176
+        y: 336
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1914,10 +1914,10 @@ TextureImporter:
       name: trap_animation_26
       rect:
         serializedVersion: 2
-        x: 112
-        y: 400
+        x: 16
+        y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1936,10 +1936,10 @@ TextureImporter:
       name: trap_animation_27
       rect:
         serializedVersion: 2
-        x: 128
-        y: 400
+        x: 32
+        y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1958,10 +1958,10 @@ TextureImporter:
       name: trap_animation_28
       rect:
         serializedVersion: 2
-        x: 160
-        y: 400
+        x: 48
+        y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1980,10 +1980,10 @@ TextureImporter:
       name: trap_animation_29
       rect:
         serializedVersion: 2
-        x: 16
-        y: 352
+        x: 80
+        y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2002,10 +2002,10 @@ TextureImporter:
       name: trap_animation_30
       rect:
         serializedVersion: 2
-        x: 32
-        y: 352
+        x: 96
+        y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2024,10 +2024,10 @@ TextureImporter:
       name: trap_animation_31
       rect:
         serializedVersion: 2
-        x: 48
-        y: 352
+        x: 112
+        y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2046,10 +2046,10 @@ TextureImporter:
       name: trap_animation_32
       rect:
         serializedVersion: 2
-        x: 80
-        y: 352
+        x: 128
+        y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2068,10 +2068,10 @@ TextureImporter:
       name: trap_animation_33
       rect:
         serializedVersion: 2
-        x: 96
-        y: 352
+        x: 160
+        y: 304
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2090,10 +2090,10 @@ TextureImporter:
       name: trap_animation_34
       rect:
         serializedVersion: 2
-        x: 112
-        y: 352
+        x: 16
+        y: 272
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2112,10 +2112,10 @@ TextureImporter:
       name: trap_animation_35
       rect:
         serializedVersion: 2
-        x: 160
-        y: 352
+        x: 32
+        y: 272
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2134,10 +2134,10 @@ TextureImporter:
       name: trap_animation_36
       rect:
         serializedVersion: 2
-        x: 16
-        y: 336
+        x: 48
+        y: 272
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2156,10 +2156,10 @@ TextureImporter:
       name: trap_animation_37
       rect:
         serializedVersion: 2
-        x: 48
-        y: 336
+        x: 80
+        y: 272
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2178,10 +2178,10 @@ TextureImporter:
       name: trap_animation_38
       rect:
         serializedVersion: 2
-        x: 80
-        y: 336
+        x: 96
+        y: 272
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2200,10 +2200,10 @@ TextureImporter:
       name: trap_animation_39
       rect:
         serializedVersion: 2
-        x: 96
-        y: 336
+        x: 112
+        y: 272
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2222,10 +2222,10 @@ TextureImporter:
       name: trap_animation_40
       rect:
         serializedVersion: 2
-        x: 112
-        y: 336
+        x: 160
+        y: 272
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2244,10 +2244,10 @@ TextureImporter:
       name: trap_animation_41
       rect:
         serializedVersion: 2
-        x: 144
-        y: 336
+        x: 16
+        y: 240
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2266,10 +2266,10 @@ TextureImporter:
       name: trap_animation_42
       rect:
         serializedVersion: 2
-        x: 160
-        y: 336
+        x: 32
+        y: 240
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2288,10 +2288,10 @@ TextureImporter:
       name: trap_animation_43
       rect:
         serializedVersion: 2
-        x: 176
-        y: 336
+        x: 48
+        y: 240
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2310,10 +2310,10 @@ TextureImporter:
       name: trap_animation_44
       rect:
         serializedVersion: 2
-        x: 16
-        y: 320
+        x: 80
+        y: 240
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2332,10 +2332,10 @@ TextureImporter:
       name: trap_animation_45
       rect:
         serializedVersion: 2
-        x: 48
-        y: 320
+        x: 96
+        y: 240
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2354,10 +2354,10 @@ TextureImporter:
       name: trap_animation_46
       rect:
         serializedVersion: 2
-        x: 80
-        y: 320
+        x: 112
+        y: 240
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2376,10 +2376,10 @@ TextureImporter:
       name: trap_animation_47
       rect:
         serializedVersion: 2
-        x: 96
-        y: 320
+        x: 144
+        y: 240
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2398,10 +2398,10 @@ TextureImporter:
       name: trap_animation_48
       rect:
         serializedVersion: 2
-        x: 112
-        y: 320
+        x: 160
+        y: 240
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2420,10 +2420,10 @@ TextureImporter:
       name: trap_animation_49
       rect:
         serializedVersion: 2
-        x: 160
-        y: 320
+        x: 176
+        y: 240
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2443,9 +2443,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 304
+        y: 208
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2465,9 +2465,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 304
+        y: 208
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2487,9 +2487,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 304
+        y: 208
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2509,9 +2509,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 304
+        y: 208
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2531,9 +2531,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 304
+        y: 208
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2553,9 +2553,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 304
+        y: 208
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2575,9 +2575,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 128
-        y: 304
+        y: 208
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2597,9 +2597,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 304
+        y: 208
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2619,9 +2619,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 272
+        y: 176
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2641,9 +2641,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 272
+        y: 176
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2663,9 +2663,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 272
+        y: 176
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2685,9 +2685,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 272
+        y: 176
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2707,9 +2707,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 272
+        y: 176
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2729,9 +2729,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 272
+        y: 176
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2751,9 +2751,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 272
+        y: 176
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2773,9 +2773,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 256
+        y: 144
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2795,9 +2795,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 256
+        y: 144
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2817,9 +2817,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 256
+        y: 144
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2839,9 +2839,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 256
+        y: 144
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2861,9 +2861,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 256
+        y: 144
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2883,9 +2883,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 256
+        y: 144
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2905,9 +2905,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 256
+        y: 144
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2927,9 +2927,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 160
-        y: 256
+        y: 144
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2949,9 +2949,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 176
-        y: 256
+        y: 144
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2971,9 +2971,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 240
+        y: 112
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2992,10 +2992,10 @@ TextureImporter:
       name: trap_animation_75
       rect:
         serializedVersion: 2
-        x: 48
-        y: 240
+        x: 32
+        y: 112
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3014,10 +3014,10 @@ TextureImporter:
       name: trap_animation_76
       rect:
         serializedVersion: 2
-        x: 80
-        y: 240
+        x: 48
+        y: 112
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3036,10 +3036,10 @@ TextureImporter:
       name: trap_animation_77
       rect:
         serializedVersion: 2
-        x: 96
-        y: 240
+        x: 80
+        y: 112
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3058,10 +3058,10 @@ TextureImporter:
       name: trap_animation_78
       rect:
         serializedVersion: 2
-        x: 112
-        y: 240
+        x: 96
+        y: 112
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3080,10 +3080,10 @@ TextureImporter:
       name: trap_animation_79
       rect:
         serializedVersion: 2
-        x: 144
-        y: 240
+        x: 112
+        y: 112
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3102,10 +3102,10 @@ TextureImporter:
       name: trap_animation_80
       rect:
         serializedVersion: 2
-        x: 160
-        y: 240
+        x: 128
+        y: 112
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3124,10 +3124,10 @@ TextureImporter:
       name: trap_animation_81
       rect:
         serializedVersion: 2
-        x: 176
-        y: 240
+        x: 160
+        y: 112
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3147,9 +3147,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 224
+        y: 80
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3169,9 +3169,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 224
+        y: 80
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3191,9 +3191,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 224
+        y: 80
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3213,9 +3213,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 224
+        y: 80
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3235,9 +3235,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 224
+        y: 80
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3257,9 +3257,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 224
+        y: 80
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3278,10 +3278,10 @@ TextureImporter:
       name: trap_animation_88
       rect:
         serializedVersion: 2
-        x: 128
-        y: 224
+        x: 160
+        y: 80
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3300,10 +3300,10 @@ TextureImporter:
       name: trap_animation_89
       rect:
         serializedVersion: 2
-        x: 160
-        y: 224
+        x: 16
+        y: 48
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3322,10 +3322,10 @@ TextureImporter:
       name: trap_animation_90
       rect:
         serializedVersion: 2
-        x: 16
-        y: 208
+        x: 32
+        y: 48
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3344,10 +3344,10 @@ TextureImporter:
       name: trap_animation_91
       rect:
         serializedVersion: 2
-        x: 32
-        y: 208
+        x: 48
+        y: 48
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3366,10 +3366,10 @@ TextureImporter:
       name: trap_animation_92
       rect:
         serializedVersion: 2
-        x: 48
-        y: 208
+        x: 80
+        y: 48
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3388,10 +3388,10 @@ TextureImporter:
       name: trap_animation_93
       rect:
         serializedVersion: 2
-        x: 80
-        y: 208
+        x: 96
+        y: 48
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3410,10 +3410,10 @@ TextureImporter:
       name: trap_animation_94
       rect:
         serializedVersion: 2
-        x: 96
-        y: 208
+        x: 112
+        y: 48
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3432,10 +3432,10 @@ TextureImporter:
       name: trap_animation_95
       rect:
         serializedVersion: 2
-        x: 112
-        y: 208
+        x: 144
+        y: 48
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3454,10 +3454,10 @@ TextureImporter:
       name: trap_animation_96
       rect:
         serializedVersion: 2
-        x: 128
-        y: 208
+        x: 160
+        y: 48
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3476,10 +3476,10 @@ TextureImporter:
       name: trap_animation_97
       rect:
         serializedVersion: 2
-        x: 160
-        y: 208
+        x: 176
+        y: 48
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3499,9 +3499,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 176
+        y: 16
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3521,9 +3521,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 176
+        y: 16
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3543,9 +3543,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 48
-        y: 176
+        y: 16
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3565,9 +3565,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 80
-        y: 176
+        y: 16
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3587,9 +3587,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 176
+        y: 16
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3609,9 +3609,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 112
-        y: 176
+        y: 16
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3630,10 +3630,10 @@ TextureImporter:
       name: trap_animation_104
       rect:
         serializedVersion: 2
-        x: 160
-        y: 176
+        x: 128
+        y: 16
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3652,10 +3652,10 @@ TextureImporter:
       name: trap_animation_105
       rect:
         serializedVersion: 2
-        x: 16
-        y: 160
+        x: 160
+        y: 16
         width: 16
-        height: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3666,1590 +3666,6 @@ TextureImporter:
       bones: []
       spriteID: 16c74fec38858fe30800000000000000
       internalID: 4537473947711863905
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_106
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1be79d18bcffc22c0800000000000000
-      internalID: -4454904681854304591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_107
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b5518c70ce5e57c70800000000000000
-      internalID: 8968327034883806555
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_108
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a41994139ae9ed20800000000000000
-      internalID: 3308433318707008676
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_109
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ecd5d3bb0c68c3e0800000000000000
-      internalID: -2033256434240201503
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_110
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 898c1235a861fe440800000000000000
-      internalID: 4967213697368967320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_111
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 27b1b3519030e0470800000000000000
-      internalID: 8362624895619373938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_112
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 593a5a06f43a45ab0800000000000000
-      internalID: -5020208123292048491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_113
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 160
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a119154a4267338c0800000000000000
-      internalID: -4020740142564011750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_114
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b1a8e08e347a4c3e0800000000000000
-      internalID: -2034317221566707173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_115
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d129dbfa0b5a1af20800000000000000
-      internalID: 3432206569314292253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_116
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18032406ad05ca510800000000000000
-      internalID: 1561712069638762625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_117
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b0e9c48c2f7c27cc0800000000000000
-      internalID: -3714686897070760437
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_118
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a471d0bb91e06c0c0800000000000000
-      internalID: -4555938469363509430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_119
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f24d8a48af9ebbb70800000000000000
-      internalID: 8915977149486781487
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_120
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c78745ee61de7f020800000000000000
-      internalID: 2375628011204802684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_121
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 144
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0c36216a573036c0800000000000000
-      internalID: -4165768794001228790
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_122
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cebeeb0db5c078fb0800000000000000
-      internalID: -4645730902125646868
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_123
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c708758f6f01a000800000000000000
-      internalID: 45334442905438153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_124
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae5fc262a10618b10800000000000000
-      internalID: 1981970976445625834
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_125
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e118a03c155dd080800000000000000
-      internalID: -9161072487437954590
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_126
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 961eea0910c4ff3e0800000000000000
-      internalID: -2017810538432634519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_127
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5bcc8a606886bde80800000000000000
-      internalID: -8152807775577518923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_128
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f01a883f7e4a6c140800000000000000
-      internalID: 4739656973984243983
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_129
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 128
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 241a580a867b05250800000000000000
-      internalID: 5931442369244537154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_130
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d1e22c8b8744c95e0800000000000000
-      internalID: -1901569657370694115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_131
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 11194e378ba83afb0800000000000000
-      internalID: -4637710666438504175
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_132
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dc0ac1dc93c1c4f40800000000000000
-      internalID: 5713973061806235853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_133
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb773e021340fb3f0800000000000000
-      internalID: -882982392889641026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_134
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0bf9064e5dffbd170800000000000000
-      internalID: 8204432440310144944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_135
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 374a4ef1a854a9230800000000000000
-      internalID: 3646303307852719219
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_136
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c8bbb292dbebb3de0800000000000000
-      internalID: -1352277543445873780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_137
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 722a95e838fb0bab0800000000000000
-      internalID: -4994281415004020185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_138
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c7811a53a9d767870800000000000000
-      internalID: 8680263433081395324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_139
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5767717b0782c0330800000000000000
-      internalID: 3678359460228068981
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_140
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c294126bac2116510800000000000000
-      internalID: 1540533209385748780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_141
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abfdccb2efaea26a0800000000000000
-      internalID: -6473103137014227014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_142
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ecdc5b9219df3e680800000000000000
-      internalID: -8726852853002023474
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_143
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dee0507f1d3310b00800000000000000
-      internalID: 792971986279403245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_144
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a3e6b6ece45ebf570800000000000000
-      internalID: 8501640848225300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_145
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b8b104f10cde62e20800000000000000
-      internalID: 3325606784273488779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_146
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7800c438ec93adb00800000000000000
-      internalID: 854058638468972679
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_147
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9fd360258907934d0800000000000000
-      internalID: -3154366264482841095
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_148
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c508b77abc635c8a0800000000000000
-      internalID: -6285557456609509284
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_149
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95c7a23cc61a27650800000000000000
-      internalID: 6229218723109698649
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_150
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bcb6688d37150d710800000000000000
-      internalID: 1715961016023935947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_151
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6321823a99f7b77f0800000000000000
-      internalID: -613756626361904586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_152
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd277b6cb38bc53e0800000000000000
-      internalID: -2063571962366037285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_153
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9081f68e3a8768210800000000000000
-      internalID: 1334886984936527881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_154
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 948a6cd9000cfcc00800000000000000
-      internalID: 923167557513816137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_155
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8e22541b4ce37cad0800000000000000
-      internalID: -2682106038567230744
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_156
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 791d1af4986412ed0800000000000000
-      internalID: -2440591967497629289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_157
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e83175fe0dd8acdb0800000000000000
-      internalID: -4770844926737443954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_158
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3dcf8a0224d4dd90800000000000000
-      internalID: -7073795872021033668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_159
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c50c829553e62d1f0800000000000000
-      internalID: -1021632990051516324
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_160
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 40bab36c8642458f0800000000000000
-      internalID: -552776821838730492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_161
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a67eea6a1478585a0800000000000000
-      internalID: -6519656169509820566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_162
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4688f92f66b669020800000000000000
-      internalID: 2348182345621669988
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_163
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b60c0b5518391090800000000000000
-      internalID: -8063351993457178955
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_164
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6cfb9a9da0b1f3500800000000000000
-      internalID: 378050627137814470
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_165
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1b7624eef0fadd640800000000000000
-      internalID: 5106430035464710065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_166
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50a98043c993e0270800000000000000
-      internalID: 8218569713048394245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_167
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76f02470a00edc780800000000000000
-      internalID: -8661020174687531161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_168
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7167cdd18e492bf00800000000000000
-      internalID: 1131130181077726743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_169
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9de0287473124b640800000000000000
-      internalID: 5094733599769497305
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_170
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0adcb9ff65ef01140800000000000000
-      internalID: 4688526861701729696
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_171
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: afd0a8f975c06ce60800000000000000
-      internalID: 7982080960039095802
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_172
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b27d1530e20e0b9a0800000000000000
-      internalID: -6219224597169842389
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_173
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 603241132de1f9e30800000000000000
-      internalID: 4512359239763895046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_174
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 22ef6e7da94bd1400800000000000000
-      internalID: 296591727616523810
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_175
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8bd0102c60a7de5b0800000000000000
-      internalID: -5337475813920928328
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_176
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5347f4c2fc9623000800000000000000
-      internalID: 14190087358084149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: trap_animation_177
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db89259ac57dc76e0800000000000000
-      internalID: -1838357754896279363
       vertices: []
       indices: 
       edges: []
@@ -5268,7 +3684,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       trap_animation_0: 5159668621130610765
       trap_animation_1: -3181873047013513522
@@ -5279,85 +3695,13 @@ TextureImporter:
       trap_animation_103: 8226265026591615835
       trap_animation_104: 7195977539927234504
       trap_animation_105: 4537473947711863905
-      trap_animation_106: -4454904681854304591
-      trap_animation_107: 8968327034883806555
-      trap_animation_108: 3308433318707008676
-      trap_animation_109: -2033256434240201503
       trap_animation_11: 817341159072259439
-      trap_animation_110: 4967213697368967320
-      trap_animation_111: 8362624895619373938
-      trap_animation_112: -5020208123292048491
-      trap_animation_113: -4020740142564011750
-      trap_animation_114: -2034317221566707173
-      trap_animation_115: 3432206569314292253
-      trap_animation_116: 1561712069638762625
-      trap_animation_117: -3714686897070760437
-      trap_animation_118: -4555938469363509430
-      trap_animation_119: 8915977149486781487
       trap_animation_12: -3761326309877276820
-      trap_animation_120: 2375628011204802684
-      trap_animation_121: -4165768794001228790
-      trap_animation_122: -4645730902125646868
-      trap_animation_123: 45334442905438153
-      trap_animation_124: 1981970976445625834
-      trap_animation_125: -9161072487437954590
-      trap_animation_126: -2017810538432634519
-      trap_animation_127: -8152807775577518923
-      trap_animation_128: 4739656973984243983
-      trap_animation_129: 5931442369244537154
       trap_animation_13: -6234721130317223191
-      trap_animation_130: -1901569657370694115
-      trap_animation_131: -4637710666438504175
-      trap_animation_132: 5713973061806235853
-      trap_animation_133: -882982392889641026
-      trap_animation_134: 8204432440310144944
-      trap_animation_135: 3646303307852719219
-      trap_animation_136: -1352277543445873780
-      trap_animation_137: -4994281415004020185
-      trap_animation_138: 8680263433081395324
-      trap_animation_139: 3678359460228068981
       trap_animation_14: 5051701749771455801
-      trap_animation_140: 1540533209385748780
-      trap_animation_141: -6473103137014227014
-      trap_animation_142: -8726852853002023474
-      trap_animation_143: 792971986279403245
-      trap_animation_144: 8501640848225300026
-      trap_animation_145: 3325606784273488779
-      trap_animation_146: 854058638468972679
-      trap_animation_147: -3154366264482841095
-      trap_animation_148: -6285557456609509284
-      trap_animation_149: 6229218723109698649
       trap_animation_15: 7919989764642830309
-      trap_animation_150: 1715961016023935947
-      trap_animation_151: -613756626361904586
-      trap_animation_152: -2063571962366037285
-      trap_animation_153: 1334886984936527881
-      trap_animation_154: 923167557513816137
-      trap_animation_155: -2682106038567230744
-      trap_animation_156: -2440591967497629289
-      trap_animation_157: -4770844926737443954
-      trap_animation_158: -7073795872021033668
-      trap_animation_159: -1021632990051516324
       trap_animation_16: 4983595621129237328
-      trap_animation_160: -552776821838730492
-      trap_animation_161: -6519656169509820566
-      trap_animation_162: 2348182345621669988
-      trap_animation_163: -8063351993457178955
-      trap_animation_164: 378050627137814470
-      trap_animation_165: 5106430035464710065
-      trap_animation_166: 8218569713048394245
-      trap_animation_167: -8661020174687531161
-      trap_animation_168: 1131130181077726743
-      trap_animation_169: 5094733599769497305
       trap_animation_17: -6679115454829050586
-      trap_animation_170: 4688526861701729696
-      trap_animation_171: 7982080960039095802
-      trap_animation_172: -6219224597169842389
-      trap_animation_173: 4512359239763895046
-      trap_animation_174: 296591727616523810
-      trap_animation_175: -5337475813920928328
-      trap_animation_176: 14190087358084149
-      trap_animation_177: -1838357754896279363
       trap_animation_18: -8805200881487489192
       trap_animation_19: -8288362843499940552
       trap_animation_2: 6060364051883591738
