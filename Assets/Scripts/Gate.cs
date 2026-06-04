@@ -9,12 +9,6 @@ public class Gate : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
-        
-        if (animator == null)
-        {
-            Debug.LogError("Komponen Animator tidak ditemukan di objek ini!");
-            return;
-        }
         animator.enabled = false;
     }
 
