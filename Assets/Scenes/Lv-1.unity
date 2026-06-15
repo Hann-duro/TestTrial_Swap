@@ -5395,6 +5395,37 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 7472408514881275394, guid: 502f37f8fd5ab8b41bb54a60fcfb3134, type: 3}
   m_PrefabInstance: {fileID: 1011166486}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1024427879
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1024427880}
+  m_Layer: 0
+  m_Name: AttackPoints
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1024427880
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1024427879}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.5285716, y: 11.8714285, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2101018770}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1028721247
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10278,6 +10309,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1460876561762181566, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
+      propertyPath: attackPoint
+      value: 
+      objectReference: {fileID: 1024427880}
     - target: {fileID: 2149159840946116008, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
       propertyPath: m_Name
       value: Player
@@ -10286,6 +10321,10 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 5542197314252526649, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
+      propertyPath: attackPoint
+      value: 
+      objectReference: {fileID: 1024427880}
     - target: {fileID: 7493866289554841504, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.99
@@ -10328,7 +10367,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 7493866289554841504, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1024427880}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd7b85f652ae2f649a426e2ace9aef5b, type: 3}
 --- !u!1001 &1897364791
