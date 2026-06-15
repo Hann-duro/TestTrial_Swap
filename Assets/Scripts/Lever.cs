@@ -6,6 +6,7 @@ public class Lever : MonoBehaviour
 
     [SerializeField] private Gate targetGate;
     [SerializeField] private Laser targetLaser;
+    [SerializeField] private MovingPlatform targetPlatform;
 
     public void Activate()
     {
@@ -21,6 +22,10 @@ public class Lever : MonoBehaviour
             if (targetLaser != null)
             {
                 targetLaser.TurnOff();
+            }
+            if (targetPlatform != null)
+            {
+                targetPlatform.Move();
             }
 
             Debug.Log("Lever Activated");

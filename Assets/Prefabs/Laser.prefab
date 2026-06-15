@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5242290432056619166}
   - component: {fileID: 1095091912532528880}
   - component: {fileID: 7502546056542247516}
-  - component: {fileID: 579551157918139645}
+  - component: {fileID: 6646687874359212411}
   m_Layer: 0
   m_Name: GroundRight
   m_TagString: Untagged
@@ -81,7 +81,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 4
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1375506574, guid: dfa547654614f564c9c204b707c73e03, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -131,44 +131,18 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!19719996 &579551157918139645
-TilemapCollider2D:
+--- !u!114 &6646687874359212411
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 266016039230172111}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_MaximumTileChangeCount: 1000
-  m_ExtrusionFactor: 0
-  m_UseDelaunayMesh: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ec59ca26ccbf434a9be83d7b2c20ffb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Laser
 --- !u!1 &1704017563735199175
 GameObject:
   m_ObjectHideFlags: 0
@@ -180,7 +154,7 @@ GameObject:
   - component: {fileID: 6414047063615966889}
   - component: {fileID: 539668649854170202}
   - component: {fileID: 1465448254924813884}
-  - component: {fileID: 8475096323539534998}
+  - component: {fileID: 526634091001809309}
   m_Layer: 0
   m_Name: TopRight
   m_TagString: Untagged
@@ -250,7 +224,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 4
   m_MaskInteraction: 0
   m_Sprite: {fileID: 399949045, guid: dfa547654614f564c9c204b707c73e03, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -300,44 +274,18 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!19719996 &8475096323539534998
-TilemapCollider2D:
+--- !u!114 &526634091001809309
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1704017563735199175}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_MaximumTileChangeCount: 1000
-  m_ExtrusionFactor: 0
-  m_UseDelaunayMesh: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ec59ca26ccbf434a9be83d7b2c20ffb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Laser
 --- !u!1 &2073882801364347998
 GameObject:
   m_ObjectHideFlags: 0
@@ -349,7 +297,7 @@ GameObject:
   - component: {fileID: 5688137901979301360}
   - component: {fileID: 5424116498665959389}
   - component: {fileID: 2501217599886144211}
-  - component: {fileID: 5680509442592194926}
+  - component: {fileID: 1569463428590711656}
   m_Layer: 0
   m_Name: BottomRight
   m_TagString: Untagged
@@ -419,7 +367,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 4
   m_MaskInteraction: 0
   m_Sprite: {fileID: -2241458536704930462, guid: dfa547654614f564c9c204b707c73e03, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -469,44 +417,18 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!19719996 &5680509442592194926
-TilemapCollider2D:
+--- !u!114 &1569463428590711656
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2073882801364347998}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_MaximumTileChangeCount: 1000
-  m_ExtrusionFactor: 0
-  m_UseDelaunayMesh: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ec59ca26ccbf434a9be83d7b2c20ffb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Laser
 --- !u!1 &4619026582037369545
 GameObject:
   m_ObjectHideFlags: 0
@@ -518,7 +440,7 @@ GameObject:
   - component: {fileID: 1121519421790679553}
   - component: {fileID: 5198251903390834567}
   - component: {fileID: 7656455319698642766}
-  - component: {fileID: 2997906904726216205}
+  - component: {fileID: 564338990195936976}
   m_Layer: 0
   m_Name: GroundLeft
   m_TagString: Untagged
@@ -588,7 +510,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 4
   m_MaskInteraction: 0
   m_Sprite: {fileID: 1040789981, guid: dfa547654614f564c9c204b707c73e03, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -638,44 +560,18 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!19719996 &2997906904726216205
-TilemapCollider2D:
+--- !u!114 &564338990195936976
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4619026582037369545}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_MaximumTileChangeCount: 1000
-  m_ExtrusionFactor: 0
-  m_UseDelaunayMesh: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ec59ca26ccbf434a9be83d7b2c20ffb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Laser
 --- !u!1 &5077514731966906963
 GameObject:
   m_ObjectHideFlags: 0
@@ -688,6 +584,7 @@ GameObject:
   - component: {fileID: 5609150320142243404}
   - component: {fileID: 2369048616454091288}
   - component: {fileID: 5144321095749048529}
+  - component: {fileID: 6160792067660671811}
   m_Layer: 0
   m_Name: Laser
   m_TagString: Gate0
@@ -704,7 +601,7 @@ Transform:
   m_GameObject: {fileID: 5077514731966906963}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -8.14, y: 2.39, z: 0}
+  m_LocalPosition: {x: -8.17, y: 2.28, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -825,6 +722,52 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!61 &6160792067660671811
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5077514731966906963}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.13713694, y: 1.0970913}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.3292265, y: 2.5051253}
+  m_EdgeRadius: 0
 --- !u!1 &6419334821647470671
 GameObject:
   m_ObjectHideFlags: 0
@@ -836,7 +779,7 @@ GameObject:
   - component: {fileID: 4019913106054373676}
   - component: {fileID: 236876003689373942}
   - component: {fileID: 7454429145934854909}
-  - component: {fileID: 6092770418699217899}
+  - component: {fileID: 5308952640412902729}
   m_Layer: 0
   m_Name: TopLeft
   m_TagString: Untagged
@@ -906,7 +849,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 4
   m_MaskInteraction: 0
   m_Sprite: {fileID: 1145110064, guid: dfa547654614f564c9c204b707c73e03, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -956,44 +899,18 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!19719996 &6092770418699217899
-TilemapCollider2D:
+--- !u!114 &5308952640412902729
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6419334821647470671}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_MaximumTileChangeCount: 1000
-  m_ExtrusionFactor: 0
-  m_UseDelaunayMesh: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ec59ca26ccbf434a9be83d7b2c20ffb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Laser
 --- !u!1 &8068061211005172759
 GameObject:
   m_ObjectHideFlags: 0
@@ -1005,7 +922,7 @@ GameObject:
   - component: {fileID: 3820221604592814389}
   - component: {fileID: 5346907572196304846}
   - component: {fileID: 4099803517334208619}
-  - component: {fileID: 4047889930655634981}
+  - component: {fileID: 7283099977105301905}
   m_Layer: 0
   m_Name: BottomLeft
   m_TagString: Untagged
@@ -1075,7 +992,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 3
+  m_SortingOrder: 4
   m_MaskInteraction: 0
   m_Sprite: {fileID: -1258027071, guid: dfa547654614f564c9c204b707c73e03, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1125,41 +1042,15 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!19719996 &4047889930655634981
-TilemapCollider2D:
+--- !u!114 &7283099977105301905
+MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8068061211005172759}
   m_Enabled: 1
-  serializedVersion: 3
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_ForceSendLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ForceReceiveLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_ContactCaptureLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_CallbackLayers:
-    serializedVersion: 2
-    m_Bits: 4294967295
-  m_IsTrigger: 1
-  m_UsedByEffector: 0
-  m_CompositeOperation: 0
-  m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
-  m_MaximumTileChangeCount: 1000
-  m_ExtrusionFactor: 0
-  m_UseDelaunayMesh: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ec59ca26ccbf434a9be83d7b2c20ffb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Laser
