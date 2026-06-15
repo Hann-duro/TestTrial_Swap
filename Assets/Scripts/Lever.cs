@@ -3,7 +3,9 @@ using UnityEngine;
 public class Lever : MonoBehaviour
 {
     private bool isActivated = false;
-    [SerializeField] private Gate targetGate; 
+
+    [SerializeField] private Gate targetGate;
+    [SerializeField] private Laser targetLaser;
 
     public void Activate()
     {
@@ -14,8 +16,14 @@ public class Lever : MonoBehaviour
             if (targetGate != null)
             {
                 targetGate.GateOpen();
-                Debug.Log("Lever Activated");
             }
+
+            if (targetLaser != null)
+            {
+                targetLaser.TurnOff();
+            }
+
+            Debug.Log("Lever Activated");
         }
     }
 }

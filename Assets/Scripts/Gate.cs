@@ -20,20 +20,14 @@ public class Gate : MonoBehaviour
 
     public void GateOpen()
     {
-        // 1. Matikan collider anak-anak gerbang
         BoxCollider2D[] colliders = GetComponentsInChildren<BoxCollider2D>();
         foreach (BoxCollider2D col in colliders)
         {
             col.enabled = false;
         }
-
-        // 2. AKTIFKAN ANIMASI SAAT LEVER DI-TRIGGER
         if (animator != null)
         {
-            // Hidupkan kembali animatornya agar bisa memproses animasi
             animator.enabled = true;
-
-            // Picu parameter animasi pembuka gerbang
             animator.SetTrigger(GateOpenAnimationParamName);
         }
 
